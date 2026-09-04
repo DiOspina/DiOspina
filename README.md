@@ -26,15 +26,12 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Java
 * C
 * C++
-* C#
 * JavaScript
 * TypeScript
 * Dart
 * Julia
-* Scala
 * SQL
 * Bash
-* MATLAB / Octave
 * R
 
 ## 🤖 Artificial Intelligence
@@ -135,8 +132,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 ### GIS Tools
 
 * ArcGIS Pro
-* QGIS
-* ArcGIS
 * AutoCAD
 
 ## 💻 Software Development
@@ -243,7 +238,7 @@ Universidad Nacional de Colombia
 ## 📫 Contact
 
 * GitHub: [@DiOspina](https://github.com/DiOspina)
-* LinkedIn: *Coming soon*
+* LinkedIn: [DiOspina](https://www.linkedin.com/in/diospina1/)
 
 ---
 
