@@ -13,12 +13,9 @@ I enjoy solving complex problems through programming, computational methods, dat
 * 📈 Business Intelligence
 * 🔐 Cybersecurity
 * 🗺️ Geographic Information Systems (GIS)
-* 💻 Software Engineering
 * 🧮 Algorithms & Computational Mathematics
 * ⚙️ Automation
 * ☁️ Cloud Computing
-* 🗄️ Data Engineering
-* 🔬 Computational Research
 
 ## 💻 Programming Languages
 
