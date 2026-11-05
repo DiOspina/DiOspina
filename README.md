@@ -1,19 +1,16 @@
 # Hi, I'm Diego Ospina 👋
 
-I'm a **Computer Scientist** interested in **Artificial Intelligence, Data Analytics, Cybersecurity, Geographic Information Systems (GIS), and Software Development**.
+I'm a **Computer Scientist** interested in **Artificial Intelligence, Data Analytics, and Software Development**.
 
 I enjoy solving complex problems through programming, computational methods, data analysis, and emerging technologies. I'm particularly interested in building practical solutions that combine software, data, artificial intelligence, and automation.
 
 ## 🚀 Areas of Interest
 
-* 🧠 Machine Learning & Deep Learning
 * 🕵️ AI Agents & Agentic Systems
 * 📊 Data Analytics
-* 📈 Business Intelligence
 * 🔐 Cybersecurity
 * 🧮 Algorithms & Computational Mathematics
 * ⚙️ Automation
-* ☁️ Cloud Computing
 
 ## 💻 Programming Languages
 
@@ -21,7 +18,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Java
 * C
 * C++
-* JavaScript
 * TypeScript
 * Dart
 * Julia
@@ -41,12 +37,9 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Prompt Engineering
 * AI Automation
 * Model Evaluation
-* Data Preparation & Feature Engineering
 * Multi-Agent Systems
 * Tool Calling
 * Function Calling
-* RAG Systems
-* Vector Databases
 * Embeddings
 * Workflow Automation
 * LangChain
@@ -88,11 +81,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Vulnerability Assessment
 * Authentication & Authorization
 * Cryptography
-* Secure Software Development
-* Cybersecurity Fundamentals
-* Security Monitoring
-* Digital Forensics
-* Linux Security
 
 ## 💻 Software Development
 
@@ -101,31 +89,21 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Software Architecture
 * API Development
 * REST APIs
-* Backend Development
-* Mobile Development
-* Web Development
-* Software Testing
 * Version Control
 
 ## 📱 Development Frameworks & Technologies
 
 * Flutter
-* FlutterFlow
 * Firebase
 * REST APIs
 * JSON
 * Git
-* GitHub
 
 ## ☁️ Cloud & Infrastructure
 
 * Amazon Web Services (AWS)
 * Amazon S3
 * Cloud Storage
-* Cloud Computing
-* Linux
-* Windows
-* Virtual Machines
 * Containers
 * Docker
 
@@ -134,12 +112,10 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Linear Algebra
 * Numerical Analysis
 * Optimization
-* Numerical Optimization
 * Iterative Methods
 * Sparse Matrix Methods
 * Statistical Methods
 * Mathematical Modeling
-* Computational Mathematics
 * Algorithms
 
 
@@ -173,13 +149,8 @@ Universidad Nacional de Colombia
 * Artificial Intelligence
 * AI Agents
 * Generative AI
-* Data Analytics
-* Machine Learning
 * Cybersecurity
-* Geospatial Intelligence
-* Data Engineering
-* Cloud Technologies
-
+  
 ## 📫 Contact
 
 * GitHub: [@DiOspina](https://github.com/DiOspina)
