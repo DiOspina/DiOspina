@@ -6,13 +6,11 @@ I enjoy solving complex problems through programming, computational methods, dat
 
 ## 🚀 Areas of Interest
 
-* 🤖 Artificial Intelligence
 * 🧠 Machine Learning & Deep Learning
 * 🕵️ AI Agents & Agentic Systems
 * 📊 Data Analytics
 * 📈 Business Intelligence
 * 🔐 Cybersecurity
-* 🗺️ Geographic Information Systems (GIS)
 * 🧮 Algorithms & Computational Mathematics
 * ⚙️ Automation
 * ☁️ Cloud Computing
@@ -29,7 +27,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Julia
 * SQL
 * Bash
-* R
 
 ## 🤖 Artificial Intelligence
 
@@ -45,24 +42,16 @@ I enjoy solving complex problems through programming, computational methods, dat
 * AI Automation
 * Model Evaluation
 * Data Preparation & Feature Engineering
-
-## 🧠 AI Agent Technologies
-
-* AI Agents
 * Multi-Agent Systems
 * Tool Calling
 * Function Calling
 * RAG Systems
 * Vector Databases
 * Embeddings
-* LLM APIs
-* Agent Workflows
 * Workflow Automation
 * LangChain
 * LangGraph
-* OpenAI APIs
-* Google Gemini
-* Anthropic Claude
+  
 
 ## 📊 Data & Analytics
 
@@ -79,16 +68,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Data Modeling
 * Data Warehousing
 
-### Data Tools
-
-* Pandas
-* NumPy
-* SciPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Power BI
-* Excel
 
 ## 🗄️ Databases
 
@@ -114,22 +93,6 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Security Monitoring
 * Digital Forensics
 * Linux Security
-
-## 🗺️ GIS & Geospatial Technologies
-
-* Geographic Information Systems (GIS)
-* Spatial Analysis
-* Geospatial Data
-* Remote Sensing
-* Digital Elevation Models (DEM)
-* Hydrological Analysis
-* Cartography
-* Geodesy
-
-### GIS Tools
-
-* ArcGIS Pro
-* AutoCAD
 
 ## 💻 Software Development
 
@@ -179,18 +142,7 @@ I enjoy solving complex problems through programming, computational methods, dat
 * Computational Mathematics
 * Algorithms
 
-## 🛠️ Development Tools
 
-* Git
-* GitHub
-* Visual Studio Code
-* Jupyter Notebook
-* Google Colab
-* IntelliJ IDEA
-* Android Studio
-* MATLAB
-* Julia
-* LaTeX
 
 ## 📌 Featured Projects
 
@@ -205,10 +157,6 @@ Projects involving data exploration, statistical analysis, SQL, visualization, E
 ### 🔐 Cybersecurity
 
 Projects involving cybersecurity, cryptography, security analysis, and secure computing.
-
-### 🗺️ GIS & Spatial Analysis
-
-Projects involving GIS, geospatial data, hydrological analysis, spatial modeling, and geographic visualization.
 
 ### 🧮 Computational Methods
 
